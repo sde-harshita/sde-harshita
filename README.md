@@ -4,7 +4,7 @@
 - :desktop_computer: I’m currently doing software development course with Scaler
 - 📫 How to reach me:  sde.harshita@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i find to put things into symmetry oddly satisfying 
+- ⚡ Fun fact: I find to put things into symmetry oddly satisfying 
 
 <!---
 sde-harshita/sde-harshita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
