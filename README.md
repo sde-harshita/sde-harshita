@@ -3,7 +3,7 @@
 - 💻 Currently enrolled in the Advanced Software Development course with Scaler.
 - 📫 Reach me at: sde.harshita@gmail.com
 - 😄 Pronouns: she/her
-- ✨ Fun fact: I find symmetry oddly satisfying!
+- ✨ Fun fact: I find putting things into symmetry oddly satisfying.
 
 <!---
 sde-harshita/sde-harshita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
