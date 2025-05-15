@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sde-harshita
 - 👀 I’m interested in solving problems & having conversations  
-- 🌱 I’m currently learning java
-- :desktop_computer: I’m currently doing software development course with Scaler
+- :desktop_computer: I’m currently doing advanced software development course with Scaler
 - 📫 How to reach me:  sde.harshita@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I find to put things into symmetry oddly satisfying 
